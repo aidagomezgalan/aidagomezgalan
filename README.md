@@ -6,9 +6,7 @@ With more than 10 years of experience in the sector as a Graphic Designer, I hav
 # 🚀 About Me
 🌱 I’m currently studying:
 
-    👩‍🎓 Telefónica Foundation's 42 Málaga programming campus.
     👩‍🎓 Higher Degree FP in Web Application Development.
-    👩‍🎓 Google Cybersecurity Professional Certificate (Coursera).
 
 
 # 🛠 Skills
